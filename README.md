@@ -1,1 +1,1 @@
-# Inform-tica_b-cica
+# Informática Básica
